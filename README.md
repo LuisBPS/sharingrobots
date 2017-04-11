@@ -1,4 +1,5 @@
 sharingrobots
 =============
 
-Se busca fabricar un kit electronico con OpenSourceHardware y utilizar software de transmision en vivo para ver, compartir, operar y reprogramar robots, drones sobre internet.
+This is a platform, and we look for the robots to be able to share all over the world, the design, the code, the mechanics, the schemas and register the variations in an evolutionary way.
+
